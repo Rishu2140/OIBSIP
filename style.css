@@ -1,0 +1,61 @@
+body{
+    background-color: #010b3173;
+}
+.button{
+    padding: 30px;
+    margin: 0 ;
+    border-radius: 16px solid white;
+    background-color: bisque; 
+    cursor: pointer;
+}
+.row{
+    margin: 6px;
+}
+.row input{
+    margin : 0;
+    padding :10px 20px ;
+    font-size: 21px;
+}
+.AC{
+background-color: rgb(235, 28, 28);
+}
+.OP{
+    background-color: rgb(53, 211, 150);
+}
+.A{
+    background-color: rgb(53, 211, 150);
+}
+.Y{
+    background-color: rgb(53, 211, 150);
+}
+.text-center{
+    text-align: center;
+    background-color: rgb(79, 128, 128);
+    text-decoration: double;
+    text-decoration-color: rgb(74, 74, 226);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+.bg-red{
+    background: black;
+    border-radius: 10px;
+}
+.mx-auto{
+    margin: auto;
+}
+.m-w-20{
+    max-width: 22vw;
+}
+.flex {
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+} 
+.input{
+    text-align: right;
+}
